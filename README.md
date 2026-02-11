@@ -15,7 +15,7 @@ Install `wget` and `openssl` to download installation script:
   
 Download and run installer:
   ```
-  wget https://github.com/androidmalware/OpenClaw_Termux/blob/main/install_openclaw_termux.sh
+  wget https://github.com/androidmalware/OpenClaw_Termux/raw/refs/heads/main/install_openclaw_termux.sh
   chmod +x install_openclaw_termux.sh
   ./install_openclaw_termux.sh
   ```
