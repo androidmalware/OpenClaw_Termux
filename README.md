@@ -1,5 +1,7 @@
 How to install and run OpenClaw on Android by installing Ubuntu inside Termux (no root), then launching the OpenClaw Gateway and chatting with it from WhatsApp, Telegram, or Discord.
 
+![openclaw running on Android.](https://www.mobile-hacker.com/wp-content/uploads/2026/02/20260211_090242-210x210.jpg)
+
 ## Prerequisites (no root)
 Android phone, Termux, Termux:API apps from F‑Droid (not from Google Play)
 
